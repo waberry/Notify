@@ -1,6 +1,6 @@
 Git clone the repo:
-	git clone https://github.com/waberry/Technical-test-Automatly.git &&
- cd Technical-test-Automatly
+	git clone  &&
+ cd Notify
 
 To install dependencies:
 	npm install
